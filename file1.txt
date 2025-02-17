@@ -1,2 +1,18 @@
 Test file1
 adding conetnt
+
+ssh-keygen -t ed25519 -C "prakashkoli868@gmail.com"
+
+
+ssh-keygen -t ed25519 -C "prakashkoli868@gmail.com"
+
+
+cat ~/.ssh/sshkey.pub
+
+
+
+git remote set-url origin https://prakashkoli868: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@github.com/prakashkoli868/test-repo.git
+
+
+ssh-keygen -t ed25519 -C "your-email@example.com"
+
